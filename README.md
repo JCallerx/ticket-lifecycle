@@ -26,7 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
   
-![image]
+![Annotation 2023-09-02 143119](https://github.com/JCallerx/ticket-lifecycle/assets/143349237/208cd9ec-f559-4168-b9ae-6c773d9c1a5f)
+
 </p>
 <p>
 In this step, I submit a ticket on behalf of a user
@@ -37,7 +38,8 @@ In this step, I submit a ticket on behalf of a user
 
 <p>
   
-![image]
+![Annotation 2023-09-02 141928](https://github.com/JCallerx/ticket-lifecycle/assets/143349237/4ef592eb-b895-4191-a31c-eb59e3fd2f0a)
+
 </p>
 <p>
 This image shows the following steps:
