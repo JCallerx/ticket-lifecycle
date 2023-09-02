@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
   
-![image](https://github.com/CopaceticWill/ticket-lifecycle/assets/137100082/be0cea62-2292-4185-bc5b-8e5f081c6ce4)
+![image]
 </p>
 <p>
 In this step, I submit a ticket on behalf of a user
@@ -37,7 +37,7 @@ In this step, I submit a ticket on behalf of a user
 
 <p>
   
-![image](https://github.com/CopaceticWill/ticket-lifecycle/assets/137100082/42f2fca9-6714-4721-854c-766a7fc172e0)
+![image]
 </p>
 <p>
 This image shows the following steps:
